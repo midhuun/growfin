@@ -1,0 +1,19 @@
+.header{
+  background: linear-gradient(188.11deg, #2563EB 6.12%, #1E3A8A 93.34%);
+}
+.ad{
+  background: linear-gradient(180deg, #2563EB -16.35%, #000000 136.14%);
+  background-clip: text;
+  --webkit-background-clip:text;
+  color: transparent;
+}
+.use{
+  background: linear-gradient(180deg, #2563EB 0.38%, #000000 111.58%);
+  background-clip: text;
+  --webkit-background-clip:text;
+  color: transparent;
+}
+.use2{
+  background: linear-gradient(105.5deg, #2563EB 0.21%, #1F3B8B 63.36%);
+
+}
